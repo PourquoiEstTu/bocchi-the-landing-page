@@ -193,10 +193,10 @@ nav ul {
     background-color: rgb(48, 181, 243);
     border-radius: 25px;
     padding: 20px; 
-    padding-top: 25px;
+    /* padding-top: 25px;
     margin: 0;
     margin-bottom: 32px;
-    margin-right: 22px;
+    margin-right: 22px; */
     min-width: 535px; 
     max-width: 720px;
 }
